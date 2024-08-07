@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun  4 21:54:27 2024
 
-@author: LENOVO
-"""
 
 import os
 import pickle
@@ -11,7 +6,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 
 # Set page configuration
-st.set_page_config(page_title="Health Assistant",
+st.set_page_config(page_title="Dr.AI",
                    layout="wide",
                    page_icon="🧑‍⚕️")
 
